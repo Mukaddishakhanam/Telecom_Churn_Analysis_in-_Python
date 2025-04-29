@@ -1,4 +1,4 @@
-# Telecom_Churn_Analysis_in-_Python:
+# Telecom_Churn_Customer_Analysis_in_Python:
 This project explores the factors driving customer churn in a telecom service provider's customer base. Using visual and statistical analysis, key behavioral and demographic patterns have been uncovered to help inform customer retention strategies.
 Conclusion:
 This analysis highlights that churn is strongly influenced by contract length, service usage, and
