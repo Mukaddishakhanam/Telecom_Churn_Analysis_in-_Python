@@ -12,5 +12,5 @@ incentivizing long-term contracts can significantly improve retention.
 4. Discourage Electronic Check Payments- Offer rewards for switching to credit card or bank transfer.
 5. Target Senior Citizens Strategically- Provide simplified plans and personalised support.
 
-# Project and Report link:
+# Project Report link:
 https://github.com/Mukaddishakhanam/Telecom_Churn_Analysis_in-_Python/blob/main/Telecom-Churn-project.ipynb
